@@ -10,7 +10,13 @@ public class Test {
 		list.add("Java");
 		list.add("Hibernate");
 		list.add("SpringBoot");
-		System.out.println(list);
+		list.add("BootStrap");
+		
+		for(String str: list) {
+			System.out.println(str);
+		}
+		
+//		System.out.println(list);
 		
 			
 	}

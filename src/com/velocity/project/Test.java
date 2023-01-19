@@ -9,6 +9,7 @@ public class Test {
 		List<String> list = new ArrayList<String>();
 		list.add("Java");
 		list.add("Hibernate");
+		list.add("SpringBoot");
 		System.out.println(list);
 		
 			
